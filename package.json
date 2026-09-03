@@ -1,0 +1,13 @@
+{
+  "name": "git-demo_test",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "test": "bun test"
+  }
+}
